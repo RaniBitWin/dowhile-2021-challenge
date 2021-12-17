@@ -1,2 +1,7 @@
-# dowhile-2021-challenge
-DoWhile 2021 event challenge.
+## [dowhile-2021-challenge](https://ranibitwin.github.io/dowhile-2021-challenge/)
+- DoWhile event challenge took place on December 1st and 2nd, 2021.
+- There were more than 70 highly relevant contents through keynotes, panels, talks, lectures and workshops.
+- All this shared by more than 90 speakers from companies such as Grupo Primo, Netflix, iFood, Riachuelo and dozens of other major partners.
+- More than that, we offer 500 full scholarships to study here at Rocketseat.
+- HTML, css and javascript technologies were used to fulfill the requirements of this challenge [published here](https://efficient-sloth-d85.notion.site/Instru-es-dos-desafios-f2f2c5574cf640c59de425413f60c8eb).
+- A simple website, which in essence, publishes links to quality free online courses.
