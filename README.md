@@ -1,5 +1,5 @@
-## [dowhile-2021-challenge](https://ranibitwin.github.io/dowhile-2021-challenge/)
-- DoWhile event challenge took place on December 1st and 2nd, 2021.
+## [dowhile-2021-challenge](https://ranibitwin.github.io/dowhile-2021-challenge/) 
+- DoWhile #Build The Future was event challenge took place on December 1st and 2nd, 2021.
 - There were more than 70 highly relevant contents through keynotes, panels, talks, lectures and workshops.
 - All this shared by more than 90 speakers from companies such as Grupo Primo, Netflix, iFood, Riachuelo and dozens of other major partners.
 - More than that, we offer 500 full scholarships to study here at Rocketseat.
